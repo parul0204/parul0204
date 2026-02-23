@@ -12,12 +12,12 @@
 
 <h3 align="center">
   <samp>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=Hi,+I'm+Nitesh+Singh;DevOps+Engineer;Full+Stack+Developer;Building+Scalable+Systems" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FF88&size=24&center=true&vCenter=true&width=700&lines=Hi,+I'm+Parul+Yadav;AIML+Engineer;Full+Stack+Developer;Building+Scalable+Systems" />
   </samp>
 </h3>
 
 <h1 align="center">
-Full Stack Developer & DevOps Engineer
+Full-Stack Developer | AI/ML Enthusiast
 </h1>
 
 <p align="center">
